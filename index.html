@@ -1,15 +1,24 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>2022 Internship Exercise - Menu</title>
-    <meta charset="UTF-8" />
-  </head>
 
-  <body>
+<head>
+  <title>2022 Internship Exercise - Menu</title>
+  <meta charset="UTF-8" />
+</head>
+
+<body>
+  <div class="menu_body">
     <header>
       <h1>Fancy Italian Restaurant</h1>
+      <!-- Moved the legend and option selection for ease of use -->
+      <div class="disclaimers">
+        <h4>Legend</h4>
+        <p class="disclaimer spicy">= Spicy</p>
+        <input type="checkbox" id="filter_spicy" name="filter_spicy" vlaue="isSpicy" checked>
+        <label for="filter_spicy">Show spicy options</label>
+      </div>
     </header>
-    <main>
+    <main class="item_body">
       <section id="starters">
         <h2>Starters</h2>
       </section>
@@ -21,10 +30,9 @@
       </section>
     </main>
     <footer>
-      <ul class="disclaimers">
-        <li class="disclaimer spicy">= Spicy</li>
-      </ul>
     </footer>
-    <script src="src/index.js"></script>
-  </body>
+  </div>
+  <script src="src/index.js"></script>
+</body>
+
 </html>

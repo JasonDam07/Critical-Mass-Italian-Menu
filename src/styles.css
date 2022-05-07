@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  background-color: rgb(247, 247, 247);
 }
 
 .spicy:before {
@@ -12,4 +13,80 @@ body {
   padding-right: 3px;
   position: relative;
   top: 2px;
+}
+
+h1{
+  font-size: 3em;
+}
+
+h2{
+  font-size: 2em;
+}
+
+h4{
+  font-size: 1.5em;
+}
+
+.disclaimer.spicy, label{
+  font-size: 1.25em;
+}
+
+.menu_body{
+  padding: 10vw;
+  border: 1px solid rgb(184, 184, 184);
+  margin: 20px;
+}
+
+.item_body{
+  padding: 20px;
+}
+
+h1, h2{
+  color:rgb(143, 16, 16);
+  border-bottom: 1px solid rgb(184, 184, 184);
+}
+
+h4{
+  margin-top: 0;
+}
+
+.spicy{
+  margin: 10px 0px;
+}
+
+.disclaimers{
+  border-bottom: 1px solid rgb(184, 184, 184);
+  padding: 20px;
+}
+
+.disclaimer{
+  list-style-type: none;
+}
+
+.item_name{
+  list-style-type: none;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.item_desc{
+  font-style: italic;
+  width: 90%;
+  font-size: 1.25em;
+}
+
+.info_container{
+  display: flex;
+}
+
+.text_container{
+  /* allows this container to grow to fill out the container */
+  flex-grow: 1
+}
+
+.price_text{
+  margin-top: 0;
+  text-align: flex-end;
+  color: green;
+  font-size: 1.25em;
 }
