@@ -25,10 +25,6 @@ Tackle the following steps to create a menu for a "Fancy Italian Restaurant".
 
 - Create a new file called "TODO.md". Add any additional changes you'd recommend making if this was a project you were working on for a real client.
 
-## Codesandbox Link
-
-A link to the codesandbox version for my project can be found here: [https://codesandbox.io/s/critical-mass-italian-menu-72bqqg](https://codesandbox.io/s/critical-mass-italian-menu-72bqqg).
-
 # Work / Project Examples
 
 ## 1. Innovfin Internship
@@ -81,3 +77,7 @@ The Blender source code can be found [here](https://github.com/blender).
 # Focus
 
 One of my goals is to become a proficient fullstack developer because I believe that having a good understanding of all parts of a system will help me with coding more efficiently and avoid problems. In the previous year or two of my life I have become more experienced with frontend development but have not had the chance to do backend development as much as I would like to. If I had the resources and time to learn anything, I would like to learn more about backend development for my first 6 months at Critical Mass. Even though I enjoy frontend development more as I am interested in design (not limited to web design), I believe that gaining more understanding of the backend will improve my frontend development skills and make me a more versatile developer in the future. 
+
+## Codesandbox Link
+
+A link to the codesandbox version for my project can be found here: [https://codesandbox.io/s/critical-mass-italian-menu-72bqqg](https://codesandbox.io/s/critical-mass-italian-menu-72bqqg).
