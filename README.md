@@ -25,6 +25,10 @@ Tackle the following steps to create a menu for a "Fancy Italian Restaurant".
 
 - Create a new file called "TODO.md". Add any additional changes you'd recommend making if this was a project you were working on for a real client.
 
+## Codesandbox Link
+
+A link to the codesandbox version for my project can be found here: [https://codesandbox.io/s/critical-mass-italian-menu-72bqqg](https://codesandbox.io/s/critical-mass-italian-menu-72bqqg).
+
 # Work / Project Examples
 
 ## 1. Innovfin Internship
